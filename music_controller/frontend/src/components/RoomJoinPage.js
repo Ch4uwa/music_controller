@@ -38,7 +38,7 @@ export default class RoomJoinPage extends Component {
             variant="contained"
             onClick={this.roomButtonPressed}
           >
-            Create A Room
+            Join Room
           </Button>
         </Grid>
         <Grid item xs={12} align="center">

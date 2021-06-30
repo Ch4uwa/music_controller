@@ -107,7 +107,7 @@ export default class CreateRoomPage extends Component {
             variant="contained"
             onClick={this.handleRoomButtonPressed}
           >
-            Create A Room
+            Create Room
           </Button>
         </Grid>
         <Grid item xs={12} align="center">
